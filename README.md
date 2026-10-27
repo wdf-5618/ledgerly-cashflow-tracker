@@ -2,6 +2,8 @@
 
 Ledgerly is a small browser app for recording income and expenses and reviewing monthly cash flow. It uses HTML, CSS, and vanilla JavaScript, with no package installation required.
 
+**Live demo:** [Open Ledgerly](https://ledgerly-cashflow-tracker.vercel.app). Data stays in the current browser only.
+
 ## Features
 - Record income or expense with description, amount in MMK, date, category, and optional notes.
 - Edit and delete transactions.
